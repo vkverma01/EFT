@@ -5,9 +5,9 @@
 ## Class Incremental Learning
 #### CIFAR-100/10 and CIFAR100/20
 
-Jupyter file "cifar100-10_816_class_incremental.ipynb" train and evaluate the result for the cfiar100 dataset divided into 10 task and 10 classes each.
+Jupyter file "cifar100-10_816_class_incremental.ipynb" train and evaluate the result for the cfiar100 dataset, divided into 10 task and 10 classes each.
 
-Jupyter file "cifar100-20_816_class_incremental.ipynb" train and evaluate the result for the cfiar100 dataset divided into 20 task and 5 classes each.
+Jupyter file "cifar100-20_816_class_incremental.ipynb" train and evaluate the result for the cfiar100 dataset, divided into 20 task and 5 classes each.
 
 
 
