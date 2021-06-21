@@ -10,7 +10,7 @@ Jupyter file "cifar100-10_816_class_incremental.ipynb" train and evaluate the re
 
 Here: groupwise conv (gp)=8 and pointwise conv (pt)=16
 
-change the value of gp and pt for the other result from table-1
+change the value of gp and pt for the other results from table-1
 
 ##### Figure-3 result
 Jupyter file "cifar100-20_816_class_incremental.ipynb" train and evaluate the result for the cfiar100 dataset, divided into 20 task and 5 classes each.
