@@ -6,7 +6,7 @@
 #### CIFAR-100/10 and CIFAR100/20
 
 ##### Table-1 Result
-Jupyter file "cifar100-10_816_class_incremental.ipynb" train and evaluate the result for the cfiar100 dataset, divided into 10 task and 10 classes each.
+Jupyter file '''cifar100-10_816_class_incremental.ipynb''' train and evaluate the result for the cfiar100 dataset, divided into 10 task and 10 classes each.
 
 Here: groupwise conv (gp)=8 and pointwise conv (pt)=16
 
