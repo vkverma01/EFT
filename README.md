@@ -15,6 +15,9 @@ change the value of gp and pt for the other result from table-1
 ##### Figure-3 result
 Jupyter file "cifar100-20_816_class_incremental.ipynb" train and evaluate the result for the cfiar100 dataset, divided into 20 task and 5 classes each.
 
+Jupyter file "cifar100-5_816_class_incremental.ipynb" train and evaluate the result for the cfiar100 dataset, divided into 5 task and 20 classes each.
+
+
 
 
 
