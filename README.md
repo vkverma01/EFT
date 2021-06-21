@@ -1,5 +1,5 @@
 # EFT paper
-## Efficient Feature Transformations for Discriminative and Generative Continual Learning: CVPR-21
+## [Efficient Feature Transformations for Discriminative and Generative Continual Learning: CVPR-21](https://arxiv.org/abs/2103.13558)
 
 
 ## Class Incremental Learning
